@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CashRegister", "CashRegister\CashRegister.csproj", "{98549331-9D68-4F48-9B93-80A458716F03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CashRegisterTests", "CashRegisterTests\CashRegisterTests.csproj", "{C5690960-2DB3-4DC0-8E5D-78F58E853355}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98549331-9D68-4F48-9B93-80A458716F03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98549331-9D68-4F48-9B93-80A458716F03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98549331-9D68-4F48-9B93-80A458716F03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98549331-9D68-4F48-9B93-80A458716F03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5690960-2DB3-4DC0-8E5D-78F58E853355}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5690960-2DB3-4DC0-8E5D-78F58E853355}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5690960-2DB3-4DC0-8E5D-78F58E853355}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5690960-2DB3-4DC0-8E5D-78F58E853355}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E7E606A-78BC-4190-81E3-024BCD2E60FF}
+	EndGlobalSection
+EndGlobal
